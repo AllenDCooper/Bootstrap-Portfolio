@@ -1,0 +1,30 @@
+@media screen and (max-width: 767px) {
+    .container {
+      max-width: 100%;
+      padding: 0;
+      margin-right: 0;
+      margin-left: 0;
+    }
+
+    section {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    #headerLeft {
+        float: none;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #navbarText {
+        float: none;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+  }
+  
