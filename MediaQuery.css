@@ -26,5 +26,12 @@
         margin: 0 auto;
         text-align: center;
     }
+
+    p {
+        clear: both;
+    }
+
+    img {
+        width: 100%;
+    }
   }
-  
